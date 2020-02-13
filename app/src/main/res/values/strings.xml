@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab 3 Milestone 1</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+    <string name="sub_item_1">Sub Item 1</string>
+    <string name="sub_item_2">Sub Item 2</string>
+    <string name="item">Item</string>
+    <string name="open_dialog">open dialog</string>
 </resources>
